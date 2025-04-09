@@ -1,1 +1,2 @@
 # Analisisgeo
+Clase análisis geoespacial
