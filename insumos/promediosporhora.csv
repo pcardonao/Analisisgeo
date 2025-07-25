@@ -1,0 +1,361 @@
+,Codigo,Estacion,Ciudad,Longitud,Latitud,hora,pm25
+0,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,1,28.026581343834604
+1,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,2,27.870991797166294
+2,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,3,27.077382433441155
+3,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,4,26.379148093115404
+4,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,5,26.38019801980198
+5,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,6,27.969412925505672
+6,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,7,34.23738363547281
+7,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,8,41.35334309419229
+8,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,9,43.82796486090776
+9,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,10,43.65203730976927
+10,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,11,39.34756554307116
+11,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,12,35.91781508393886
+12,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,13,33.92028077212334
+13,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,14,30.00582115432252
+14,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,15,26.33943488943489
+15,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,16,24.36564417177914
+16,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,17,23.63082965144821
+17,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,18,23.839020229100658
+18,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,19,25.764146341463416
+19,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,20,28.60897591826806
+20,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,21,29.505847953216374
+21,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,22,29.460681038706518
+22,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,23,29.209376534118803
+23,12,Estación Tráfico Centro,Medellin,-75.56958,6.25256,24,28.714774114774116
+24,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,1,19.645071079002562
+25,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,2,19.114335664335666
+26,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,3,18.41737089201878
+27,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,4,18.374413145539908
+28,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,5,18.616714015151516
+29,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,6,19.284267545925577
+30,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,7,21.513843266072268
+31,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,8,24.26752336448598
+32,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,9,28.96336056009335
+33,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,10,31.81982616866338
+34,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,11,30.037455830388694
+35,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,12,25.655049786628734
+36,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,13,22.178409362311918
+37,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,14,20.127008875029983
+38,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,15,18.308988764044944
+39,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,16,17.314394843638098
+40,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,17,16.450189304306672
+41,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,18,16.440989399293287
+42,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,19,17.732612781954888
+43,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,20,19.37467700258398
+44,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,21,19.902066697980274
+45,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,22,20.168615528531337
+46,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,23,20.299697040316943
+47,38,Itagüí - I.E. Concejo Municipal de Itagüí,Itagüí,-75.64436,6.1685,24,20.306508047585723
+48,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,1,18.429572401032704
+49,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,2,17.764548471446975
+50,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,3,16.81183672828891
+51,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,4,16.67800443866493
+52,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,5,16.65204116766467
+53,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,6,17.9681040264167
+54,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,7,20.965489057167236
+55,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,8,22.431502390098164
+56,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,9,23.488064702610185
+57,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,10,25.09583117140396
+58,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,11,23.074924608770424
+59,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,12,20.468141660869566
+60,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,13,18.67312724967206
+61,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,14,16.800299734204792
+62,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,15,15.573691305494506
+63,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,16,15.147634299732381
+64,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,17,15.11847192153366
+65,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,18,15.210934826678368
+66,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,19,16.484239156209433
+67,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,20,16.91757923208191
+68,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,21,19.12360360564585
+69,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,22,20.66508891752577
+70,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,23,20.48269594571671
+71,69,Caldas - E U Joaquín Aristizabal,Caldas,-75.63776,6.09308,24,19.649825809889172
+72,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,1,16.121381705905055
+73,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,2,16.467054263565892
+74,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,3,15.322063369397219
+75,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,4,15.238021638330757
+76,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,5,15.279303675048356
+77,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,6,15.228521671826625
+78,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,7,16.34175993824778
+79,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,8,18.285796766743648
+80,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,9,26.28111753371869
+81,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,10,29.134920634920636
+82,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,11,26.932338115548664
+83,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,12,23.032591725214676
+84,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,13,19.848841774636828
+85,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,14,17.93538884524745
+86,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,15,16.783470749901845
+87,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,16,15.735675039246468
+88,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,17,15.28635303265941
+89,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,18,15.386012364760433
+90,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,19,15.274691358024691
+91,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,20,15.333973866256725
+92,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,21,16.08608762490392
+93,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,22,16.86904761904762
+94,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,23,17.083717357910906
+95,78,La Estrella - Hospital,La Estrella,-75.64417,6.15553,24,16.909476117103235
+96,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,1,20.59724731946625
+97,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,2,20.108232268283142
+98,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,3,19.5451991314554
+99,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,4,19.190645920846396
+100,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,5,18.872694399375973
+101,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,6,19.72552519485581
+102,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,7,21.61242338539633
+103,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,8,24.472406028037383
+104,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,9,30.146958129384256
+105,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,10,31.087204899882213
+106,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,11,27.342606821766562
+107,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,12,23.273160485089463
+108,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,13,20.302627782696177
+109,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,14,18.469940347755763
+110,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,15,16.79810583815029
+111,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,16,14.696356023017904
+112,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,17,13.772921185787672
+113,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,18,14.115410093299408
+114,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,19,15.754967355371901
+115,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,20,17.891225493460166
+116,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,21,20.356919937230288
+117,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,22,21.470076172305273
+118,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,23,21.652393483365948
+119,79,"Medellín, Altavista - I.E. Pedro Octavio Amado",Medellin,-75.6106,6.22189,24,21.16405108076473
+120,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,1,18.91211556555773
+121,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,2,18.445842702702702
+122,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,3,17.72300824774598
+123,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,4,17.042440622552856
+124,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,5,16.555406654957064
+125,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,6,16.48625908522283
+126,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,7,17.28704330721003
+127,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,8,18.90863675
+128,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,9,23.45015187548943
+129,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,10,27.332106785574286
+130,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,11,26.169638040912666
+131,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,12,21.921328467356687
+132,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,13,18.922344657589107
+133,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,14,16.415277063301282
+134,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,15,14.746540468622657
+135,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,16,13.334606366694702
+136,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,17,12.149367824194952
+137,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,18,12.262462291853177
+138,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,19,13.09109482030548
+139,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,20,14.087227194664443
+140,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,21,16.502730606767795
+141,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,22,18.530864162120032
+142,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,23,19.253914247374563
+143,80,"Medellín, Villahermosa - Planta de producción de agua potable EPM",Medellin,-75.54826,6.25891,24,19.361908725223476
+144,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,1,12.646820119538335
+145,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,2,12.61552547956293
+146,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,3,12.619357980574666
+147,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,4,12.53317635737439
+148,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,5,12.643483834737264
+149,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,6,13.125035086449538
+150,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,7,13.935568444802579
+151,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,8,15.06758404819277
+152,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,9,17.823422967871487
+153,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,10,18.974009894822007
+154,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,11,16.866453746444535
+155,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,12,14.808125458316052
+156,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,13,12.98612604749788
+157,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,14,11.430296962774959
+158,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,15,10.95534482788296
+159,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,16,10.717076603690685
+160,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,17,10.237246603607566
+161,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,18,9.19716199632859
+162,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,19,8.593461585306912
+163,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,20,8.900563739477182
+164,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,21,11.154358334707338
+165,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,22,12.497973923425278
+166,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,23,12.895009849471114
+167,81,Barbosa - Torre Social,Barbosa,-75.3304,6.43696,24,12.905916841892438
+168,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,1,15.499977897637795
+169,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,2,15.775839468713103
+170,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,3,15.793817715296893
+171,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,4,15.908684668508288
+172,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,5,16.081929677672957
+173,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,6,16.29692225984252
+174,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,7,16.90835558533701
+175,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,8,17.53161562549174
+176,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,9,19.529137437007872
+177,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,10,20.729070899763222
+178,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,11,17.877384494023904
+179,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,12,15.284456830645162
+180,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,13,13.560306651602302
+181,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,14,11.844069180463576
+182,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,15,10.79103876399834
+183,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,16,10.723148355883557
+184,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,17,10.632137909719399
+185,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,18,11.398699735576923
+186,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,19,11.684828317422435
+187,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,20,11.405829646825396
+188,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,21,12.975591143082381
+189,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,22,14.401349699129058
+190,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,23,15.24577903111461
+191,82,Copacabana - Ciudadela Educativa La Vida,Copacabana,-75.50475,6.34536,24,15.283166425481713
+192,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,1,23.354189353035146
+193,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,2,24.430239482418017
+194,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,3,25.011888368316832
+195,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,4,25.766583755961843
+196,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,5,26.28208455156065
+197,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,6,27.28318814624506
+198,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,7,28.668766855445543
+199,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,8,30.15775808695652
+200,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,9,26.843563485148515
+201,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,10,23.783341109337588
+202,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,11,20.502023252
+203,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,12,17.397364677159
+204,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,13,15.528189496753246
+205,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,14,14.058261265720082
+206,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,15,13.744695034623216
+207,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,16,12.843457602459017
+208,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,17,12.288822826622843
+209,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,18,12.301214963114754
+210,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,19,14.577761593384428
+211,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,20,16.64560873116574
+212,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,21,19.14307796590008
+213,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,22,20.724970043685463
+214,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,23,21.136515097029704
+215,83,"Medellin, Belén - I.E Pedro Justo Berrio",Medellin,-75.61047,6.23723,24,22.398716693069307
+216,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,1,17.158833463999997
+217,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,2,16.816218193445245
+218,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,3,16.285874564
+219,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,4,15.98636224456959
+220,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,5,15.518411577476039
+221,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,6,15.374710665338645
+222,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,7,15.73110523505976
+223,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,8,17.258719044966178
+224,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,9,20.092230669338676
+225,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,10,24.500148143832867
+226,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,11,24.433836553945252
+227,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,12,21.45005160323887
+228,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,13,18.93944948487326
+229,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,14,16.964990723334697
+230,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,15,15.359162548453607
+231,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,16,13.743962512541806
+232,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,17,12.387277737104826
+233,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,18,12.149053593109107
+234,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,19,12.695984354047425
+235,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,20,13.120259438877754
+236,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,21,15.32132613106988
+237,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,22,17.238209527965093
+238,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,23,17.819358935917723
+239,84,"Medellín, El Poblado - I.E INEM sede Santa Catalina",Medellin,-75.56095,6.19987,24,17.428518641045958
+240,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,1,15.39404383838384
+241,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,2,14.719964605792438
+242,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,3,14.07468452792286
+243,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,4,13.670288013726282
+244,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,5,13.691855724579662
+245,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,6,15.170804580670925
+246,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,7,16.770371784997995
+247,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,8,17.04646639776358
+248,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,9,20.01741426052104
+249,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,10,22.83801351046699
+250,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,11,21.986188373031894
+251,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,12,19.117820215710218
+252,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,13,16.42261358560794
+253,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,14,14.800020933660935
+254,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,15,14.364339140049141
+255,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,16,13.003975016528926
+256,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,17,12.396080880296173
+257,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,18,13.056034034090908
+258,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,19,14.41219441804269
+259,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,20,14.829861708382994
+260,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,21,16.620018443735034
+261,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,22,17.126561979166667
+262,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,23,16.99694435560859
+263,85,"Medellín, San Cristobal - Parque Biblioteca Fernando Botero",Medellin,-75.63643,6.27785,24,16.43378501998401
+264,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,1,15.622973630573249
+265,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,2,15.22934129473261
+266,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,3,14.593326123595507
+267,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,4,14.148465665460392
+268,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,5,14.008036966786715
+269,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,6,14.619230019992004
+270,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,7,16.167313004412357
+271,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,8,17.880185225909635
+272,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,9,20.187088838141026
+273,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,10,22.338816661296818
+274,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,11,20.248280136820924
+275,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,12,17.613336822620017
+276,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,13,15.601202807739812
+277,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,14,13.72716560915781
+278,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,15,12.798327228865979
+279,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,16,12.151996817994222
+280,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,17,11.836960531262772
+281,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,18,12.207768084587231
+282,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,19,12.223617456460104
+283,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,20,12.77353089120835
+284,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,21,14.54329631157389
+285,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,22,15.79109471531676
+286,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,23,16.351809236915702
+287,87,Bello - I.E. Fernando Vélez,Bello,-75.5678,6.33755,24,16.314599113162117
+288,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,1,14.849759706000807
+289,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,2,14.51259487590072
+290,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,3,14.197055078281815
+291,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,4,13.81285795482049
+292,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,5,13.467132101042502
+293,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,6,13.378276774451097
+294,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,7,15.277169101437702
+295,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,8,16.78832944022391
+296,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,9,19.413531484751203
+297,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,10,24.308419633360195
+298,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,11,24.4976210918614
+299,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,12,21.971700288617885
+300,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,13,19.58406894650878
+301,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,14,17.41553574857608
+302,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,15,16.063545450785774
+303,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,16,14.689901301799916
+304,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,17,13.718588520685332
+305,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,18,13.62205557716177
+306,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,19,13.772019630844953
+307,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,20,13.565071535337125
+308,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,21,15.263561935871744
+309,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,22,16.905560216086435
+310,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,23,16.90652597294071
+311,88,Envigado - E.S.E. Santa Gertrudis,Envigado,-75.58197,6.16868,24,15.704064560636184
+312,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,1,16.573817436006827
+313,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,2,16.492475027484144
+314,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,3,16.266079458315698
+315,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,4,16.283387691648823
+316,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,5,16.12103294439764
+317,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,6,16.776754048924506
+318,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,7,17.66068578925095
+319,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,8,17.874903109137055
+320,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,9,22.6083005416843
+321,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,10,29.797381496163684
+322,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,11,28.405858216101695
+323,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,12,24.91058365738758
+324,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,13,21.561812387799563
+325,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,14,19.030899417688264
+326,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,15,17.27959566932624
+327,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,16,15.381834786557674
+328,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,17,14.31598771194166
+329,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,18,12.686015652573529
+330,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,19,11.606006026581118
+331,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,20,11.278385175166298
+332,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,21,13.100584315156718
+333,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,22,15.103969125589371
+334,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,23,16.097587153716216
+335,90,Sabaneta - I.E. Rafael J. Mejía,Sabaneta,-75.62126,6.1455,24,16.61561315789474
+336,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,1,10.017465823438307
+337,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,2,9.22867550234253
+338,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,3,8.79660682863114
+339,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,4,8.310597574960546
+340,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,5,8.0066460607648
+341,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,6,7.677009437729899
+342,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,7,7.716197878947368
+343,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,8,7.58202672219237
+344,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,9,8.987369485714286
+345,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,10,10.000891040911446
+346,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,11,10.83548153726708
+347,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,12,11.377730000000001
+348,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,13,11.919900010752688
+349,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,14,11.7256957028754
+350,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,15,11.487355943796395
+351,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,16,10.428199105995716
+352,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,17,10.373624430312665
+353,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,18,10.350020051733058
+354,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,19,10.855375798449613
+355,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,20,11.010332701298701
+356,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,21,12.649716921898928
+357,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,22,12.676908988186954
+358,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,23,11.904949130655822
+359,94,Medellín - Santa Elena,Medellín,-75.49847,6.23636,24,10.743357911360162
